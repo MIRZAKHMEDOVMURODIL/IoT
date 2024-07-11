@@ -1,0 +1,14 @@
+{
+  "database": "AYB_APPL",
+  "host": "10.143.16.244",
+  "port": "50000",
+  "protocol": "TCPIP",
+  "uid": "IOT_DATA",
+  "pwd": "asd23fgh",
+  "pc_csv": "C:\\Users\\00220401626\\Desktop\\Ayabe\\FMS\\CsvData\\2023",
+  "local_csv": "C:\\Users\\00220401626\\Desktop\\test\\TEMP_CSV",
+  "log": "C:\\Users\\00220401626\\Desktop\\test\\LOG",
+  "insertion_time": "2023-10-20 23:59:55",
+  "nas": "\\\\10.143.16.193\\01_Data\\Bldg3\\LIQUID_PARTICLE",
+  "days": "1"
+}

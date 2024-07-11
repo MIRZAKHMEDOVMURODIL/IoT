@@ -1,0 +1,13 @@
+{
+  "server": "10.143.16.244",
+  "unit_num": "020",
+  "database": "AYB_APPL",
+  "eqp_id": "LEV50001",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/log1_QC/*/*CSV",
+  "unit_name": "MSAPシード剥離",
+  "username": "IOT_DATA",
+  "pw": "asd23fgh",
+  "log_num": "1",
+  "calc_name":[],
+  "calc_unit":[]
+}

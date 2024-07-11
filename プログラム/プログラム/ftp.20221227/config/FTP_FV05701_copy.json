@@ -1,0 +1,19 @@
+{
+    "allow_remove": false,
+    "command": "ftp",
+    "dst_dir": "/FV05701/",
+    "exts": [
+        "csv",
+        "CSV"
+    ],
+    "ip": "10.22.140.3",
+    "limit_time": "2020-06-08 11:28:10",
+    "local_dir": "backup/FV05701",
+    "method": "download",
+    "os_type": "linux",
+    "password": "kyocera",
+    "suffix": "",
+    "suffix_type": "date",
+    "updated": true,
+    "user": "Admin"
+}

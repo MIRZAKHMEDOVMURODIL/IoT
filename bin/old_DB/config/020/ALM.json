@@ -1,0 +1,10 @@
+{
+  "pw": "asd23fgh",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/ALM/*/*CSV",
+  "database": "AYB_APPL",
+  "username": "IOT_DATA",
+  "unit_name": "MSAPシード剥離",
+  "eqp_id": "LEV50001",
+  "unit_num": "020",
+  "server": "10.143.16.244"
+}

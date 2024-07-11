@@ -1,0 +1,22 @@
+{
+  "database_1": "fms01",
+  "host_1": "10.143.64.54",
+  "port_1": "5432",
+  "protocol_1": "TCPIP",
+  "user_1": "postgres",
+  "password_1": "fms",
+
+  "database_2": "AYB_APPL",
+  "host_2": "10.143.16.244",
+  "port_2": "50000",
+  "protocol_2": "TCPIP",
+  "user_2": "IOT_DATA",
+  "password_2": "asd23fgh",
+  
+  "log": "C:\\Users\\00220401626\\Desktop\\teams\\LOG",
+  "insertion_time": "2024-05-07 08:55:03",
+  "days": "30"
+}
+
+
+

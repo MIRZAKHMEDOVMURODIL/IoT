@@ -1,0 +1,18 @@
+
+{//######################################
+//######################################
+"TP":{"IP":"10.143.78.3"
+      ,"user":"Admin"
+      ,"password":"kyocera"
+      }
+,
+"DB_IOT":{  
+            "username": "IOT_DATA",
+            "pw": "asd23fgh",
+            "server": "10.143.16.244",
+            "database": "AYB_APPL",
+            "schema": "IOT_DATA",
+            "HIST_LATEST":"HIST_LATEST",
+            "HIST_REGISTERED":"HIST_REGISTERED"
+            }
+}

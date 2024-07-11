@@ -1,0 +1,8 @@
+{
+  "limit_time": "2024-03-11 14:15:00",
+  "user": "Admin",
+  "password": "kyocera",
+  "ip": "10.143.78.27",
+  "local_dir": "/IoT/bin/ftp/tmp/020/ALM",
+  "dst_dir": "A:/020/ALM"
+}

@@ -1,0 +1,12 @@
+{
+    "eqp_id": "LEV50001",
+    "unit_name": "MSAP\u30b7\u30fc\u30c9\u5265\u96e2",
+    "unit_num": "020",
+    "dst_dir": "C:\\Users\\00220401626\\Desktop\\Conductivity\\*CSV",
+    "username": "IOT_DATA",
+    "pw": "asd23fgh",
+    "server": "10.143.16.244",
+    "database": "AYB_APPL",
+    "schema": "IOT_DATA",
+    "table": "Conductivity"
+}

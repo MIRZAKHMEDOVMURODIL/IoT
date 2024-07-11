@@ -1,0 +1,17 @@
+{
+  "eqp_id": "LEV50001",
+  "unit_name": "MSAPシード剥離",
+  "unit_num": "020",
+  "log_num": "1",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/log1_Time_Series/*/*CSV",
+  "server": "10.143.16.244",
+  "database": "AYB_APPL",
+  "username": "IOT_DATA",
+  "pw": "asd23fgh",
+  "schema": "IOT_DATA",
+  "table": "B22_PROCESS",
+  "calc_name":["温度","圧力","流量"],
+  "calc_unit":[0.1,0.001,0.1],
+  "colname_measured_dt": ":DEV_COMMENT",
+  "colname_other": "設備コード"
+}

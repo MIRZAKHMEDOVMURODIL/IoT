@@ -1,0 +1,10 @@
+{
+  "pw": "asd23fgh",
+  "dst_dir": "/IoT/bin/ftp/tmp/010/STS_raw/*/*CSV",
+  "unit_num": "010",
+  "username": "IOT_DATA",
+  "database": "AYB_APPL",
+  "server": "10.143.16.244",
+  "unit_name": "LD",
+  "eqp_id": "LEV50001"
+}

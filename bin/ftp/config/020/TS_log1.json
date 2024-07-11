@@ -1,0 +1,8 @@
+{
+  "ip": "10.143.78.27",
+  "user": "Admin",
+  "local_dir": "/IoT/bin/ftp/tmp/020/log1_Time_Series",
+  "password": "kyocera",
+  "limit_time": "2024-03-11 13:01:00",
+  "dst_dir": "A:/020/log1_Time_Series"
+}
