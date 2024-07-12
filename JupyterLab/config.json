@@ -1,9 +1,0 @@
-{
-  "database": "AYB_APPL",
-  "hostname": "10.143.16.244",
-  "port": "50000",
-  "protocol": "TCPIP",
-  "uid": "IOT_DATA",
-  "pwd": "asd23fgh",
-  "directory": "C:\\\\10.143.64.59\\ParticleData"
-}

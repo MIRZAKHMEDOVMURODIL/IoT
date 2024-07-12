@@ -1,8 +1,0 @@
-{
-    "dst_dir": "A:/020/Conductivity",
-    "limit_time": "2023-12-05 08:05:00",
-    "ip": "10.143.78.27",
-    "password": "kyocera",
-    "local_dir": "/IoT/bin/ftp/tmp/020/MSAP",
-    "user": "Admin"
-}
