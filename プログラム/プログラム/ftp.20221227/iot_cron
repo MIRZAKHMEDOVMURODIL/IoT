@@ -1,3 +1,0 @@
-#!/bin/bash
-
-10 0 * * * /IoT/ftp/GetData.sh > /IoT/ftp/log/cron.log 2>&1

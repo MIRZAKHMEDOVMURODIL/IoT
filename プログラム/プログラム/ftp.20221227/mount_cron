@@ -1,4 +1,0 @@
-#!/bin/bash
-
-10 0 * * * /IoT/ftp/MountSH.sh > /IoT/ftp/log/mount.log 2>&1
-20 0 * * * /IoT/ftp/InspMount.sh > /IoT/ftp/log/insp.log 2>&1
