@@ -1,24 +1,0 @@
-2024-03-12 13:56:31 [INFO]: 3.Database Connection
-2024-03-12 13:57:19 [INFO]: 3.Database Connection
-2024-03-12 13:57:22 [INFO]: Connected to the database
-2024-03-12 14:02:40 [INFO]: Step_2 is started
-2024-03-12 14:02:43 [INFO]: Connected to Database
-2024-03-12 14:08:13 [INFO]: 1.Extract JSON Configuration Values
-2024-03-12 14:10:28 [INFO]: Step_2 is started
-2024-03-12 14:10:30 [INFO]: Connected to Database
-2024-03-12 14:12:43 [INFO]: 1.Extract JSON Configuration Values
-2024-03-12 14:13:06 [INFO]: 1.Extract JSON Configuration Values
-2024-03-12 14:14:57 [INFO]: 1.Extract JSON Configuration Values
-2024-03-12 14:19:23 [INFO]: Step_1.Extract JSON Configuration Values
-2024-03-12 14:20:49 [INFO]: Step_2 is started
-2024-03-12 14:20:52 [INFO]: Connected to Database
-2024-03-12 14:24:05 [INFO]: Step_2: Connected to Database
-2024-03-12 14:25:57 [INFO]: Step_2: Connected to Database
-2024-03-12 14:28:10 [INFO]: Step_2: Connected to Database
-2024-03-12 14:28:10 [ERROR]: Step_2: Error: Statement Execute Failed: [IBM][CLI Driver][DB2/NT64] SQL0803N  One or more values in the INSERT statement, UPDATE statement, or foreign key update caused by a DELETE statement are not valid because the primary key, unique constraint or unique index identified by "1" constrains table "IOT_DATA.THRESHOLD_ALERT" from having duplicate values for the index key.  SQLSTATE=23505 SQLCODE=-803
-2024-03-12 14:28:57 [INFO]: Step_2: Connected to Database
-2024-03-12 14:28:57 [INFO]: Step_2: Inserted to Database
-2024-03-12 14:31:08 [INFO]: Step_1:Extract JSON Configuration Values
-2024-03-12 14:31:21 [INFO]: Step_2: Connected to Database
-2024-03-12 14:31:22 [ERROR]: Step_2: Error: Statement Execute Failed: [IBM][CLI Driver][DB2/NT64] SQL0803N  One or more values in the INSERT statement, UPDATE statement, or foreign key update caused by a DELETE statement are not valid because the primary key, unique constraint or unique index identified by "1" constrains table "IOT_DATA.THRESHOLD_ALERT" from having duplicate values for the index key.  SQLSTATE=23505 SQLCODE=-803
-2024-03-12 14:46:21 [INFO]: Step_1:Extract JSON Configuration Values
