@@ -1,8 +1,0 @@
-{
-  "password": "kyocera",
-  "limit_time": "2024-03-09 01:00:00",
-  "ip": "10.143.78.27",
-  "user": "Admin",
-  "local_dir": "/IoT/bin/ftp/tmp/010/COUNT",
-  "dst_dir": "A:/010/COUNT"
-}

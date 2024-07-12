@@ -1,8 +1,0 @@
-{
-  "ip": "10.143.78.27",
-  "limit_time": "2024-03-11 13:01:00",
-  "password": "kyocera",
-  "user": "Admin",
-  "dst_dir": "A:/020/Conductivity",
-  "local_dir": "/IoT/bin/ftp/tmp/020/Conductivity"
-}
